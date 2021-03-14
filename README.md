@@ -11,6 +11,11 @@
 *  旋转矩形求交 -> 三角剖分 (新版OpenCV实现了此功能)
 *  旋转矩形NMS
 
+###  使用方法：
+*  训练方式和文件修改与原darknet基本一致，输出的时候多一维数据。
+*  结果演示  
+  ![show](./.assert/stackpicking.jpg)
+
 
 ### 参考论文：
 [Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://arxiv.org/abs/1703.01086)
